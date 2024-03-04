@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -11,3 +11,12 @@
 /EventBus/obj/Debug/net8.0/EventBus.dll
 /EventBus/obj/Debug/net8.0/EventBus.pdb
 /EventBus/obj/Debug/net8.0/EventBus.sourcelink.json
+EventBus.Tests/bin/
+EventBus.Tests/obj/
+EventBus/obj/
+EventBusRabbitMQ/bin/
+EventBusRabbitMQ/obj/
+EventBusServiceBus/bin/
+EventBusServiceBus/obj/
+IntegrationEventLogEF/bin/
+IntegrationEventLogEF/obj/
