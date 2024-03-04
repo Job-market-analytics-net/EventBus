@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EventBus/bin/Debug/net8.0/EventBus.dll
+/EventBus/bin/Debug/net8.0/EventBus.pdb
+/EventBus/obj/Debug/net8.0/ref/EventBus.dll
+/EventBus/obj/Debug/net8.0/refint/EventBus.dll
+/EventBus/obj/Debug/net8.0/EventBus.AssemblyInfoInputs.cache
+/EventBus/obj/Debug/net8.0/EventBus.csproj.FileListAbsolute.txt
+/EventBus/obj/Debug/net8.0/EventBus.dll
+/EventBus/obj/Debug/net8.0/EventBus.pdb
+/EventBus/obj/Debug/net8.0/EventBus.sourcelink.json
